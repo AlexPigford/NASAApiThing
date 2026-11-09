@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Asteroid
+comment1.params=id\ name\ nameL\ danger
+comment1.target=Asteroid(java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean)
+comment2.params=a\ raw
+comment2.target=Asteroid(AsteroidGetter,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=void\ printData()
+comment5.params=a
+comment5.target=int\ compareTo(Asteroid)
+numComments=6
